@@ -68,14 +68,3 @@ User Input → InteractionManager/UIManager
 - **Reusable:** New witches added by duplicating controller and animator setup
 
 ---
-
-## Project Structure
-
-```
-Assets/
-├── Witches/ (3 witch folders with models, animations, WitchController)
-├── Managers/ (GameManager, InteractionManager, UIManager)
-├── Audio/ (spell sounds and background music)
-├── UI/ (canvas screens)
-└── Scenes/ (Main.unity)
-```
